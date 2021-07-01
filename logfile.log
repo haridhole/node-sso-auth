@@ -1,0 +1,6 @@
+{"level":"info","message":"Listening on port 4000...","timestamp":"2021-06-30T21:01:12.563Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/MERNCRUDDB...","timestamp":"2021-06-30T21:01:12.581Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2021-06-30T21:07:17.028Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/MERNCRUDDB...","timestamp":"2021-06-30T21:07:17.047Z"}
+{"level":"info","message":"Listening on port 4000...","timestamp":"2021-06-30T21:31:29.896Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/MERNCRUDDB...","timestamp":"2021-06-30T21:31:29.919Z"}
